@@ -20,6 +20,8 @@ Model accuracy
 Model loss
 
 Conclusion
+
+
 Introduction
 
 Classification is apreocess of dividing the dat points into two or more classes. When there are two classes then, it is known as a binary classification problem.
